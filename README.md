@@ -1,0 +1,2 @@
+# rockscissorspaper
+# using the functions
